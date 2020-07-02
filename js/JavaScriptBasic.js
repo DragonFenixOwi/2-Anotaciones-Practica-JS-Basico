@@ -1,13 +1,14 @@
 /* 
-    Proyecto Básico
-    -------------------
-    Copyright Osvaldo Aquino
-
+    ----------------------------------------------------------
+        Author : Osvaldo Aquino
+        NickName: Owi
+        PRIMEROS PASOS CON JAVASCRIPT 2020 
+    ----------------------------------------------------------
 */
-
 /*
-    Variables Globales
-    -------------------
+    ---------------------------
+        VARIABLES GLOBALES
+    ---------------------------
 */
 
 //Resultado de tipos de Datos
@@ -48,13 +49,12 @@ var explicito_2 = 0;
 
 
 
-
-
-
 /*
-    1- Tipos de Datos
-    -----------------------------
+    -------------------------
+        TIPOS DE DATOS
+    -------------------------
 */
+
 
 //Valor número
 var numero = 2;
@@ -90,12 +90,12 @@ var objeto =
 
 
 
-
-
 /*
-    2- Funciones
-    ------------------
+    --------------------
+        FUNCIONES
+    --------------------
 */
+
 
 function suma(a,b) 
     {
@@ -129,13 +129,14 @@ resul_multi = multi(10,5);
 
 
 
+/*
+    --------------------
+        DEBIL TIPADO
+    --------------------
+*/
 
 
-
-
-/**
-    Debil Tipado
-    ------------------
+/*
     Teoria practica
         10+ "10";    ---> Resultado:  1010
         10* "10";    ---> Resultado:  100
@@ -154,13 +155,16 @@ resul_Debil3 = suma(10, true);
 
 
 
-
+/*
+    -------------------------
+        COERCIÓN EN JAVASCRIPT
+    -------------------------
+*/
 
 
 /*
-    Coerción en JavaScript
-    -----------------------
-        Explicito- Forzamos a que realiza una correcta operaciñón    
+    - Coerción en JavaScript
+        - Explicito- Forzamos a que realiza una correcta operaciñón    
             - explicito = 20
             - explicito_2 = 1010
         
