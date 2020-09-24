@@ -33,11 +33,11 @@
 
 ### Descripción de la Tarea
 
- 1. De todo el material nuevo de Javascript.Hacer un ejemplo, de todo lo que podáis. (un ejemplo de una función, con parámetros y sin ellos, etc.,)
+ 1. De todo el material nuevo de Javascript. Hacer un ejemplo, de todo lo que podáis. (un ejemplo de una función, con parámetros y sin ellos, etc.,)
 
-2. Descargar la plantilla. -Todos los ejemplos en en un solo archivo .js 
+2. Descargar la plantilla. -Todos los ejemplos en un solo archivo ".js" 
 
-   -Enviar ejemplos a GitHub y volvéis a enviarme el link, para su corrección.
+   - Enviar ejemplos a GitHub y volvéis a enviarme el link, para su corrección.
 
    - De todo el material nuevo de Javascript.Hacer un ejemplo, de todo lo que podáis. (un ejemplo de una función, con parámetros y sin ellos, etc.,)
 
